@@ -50,3 +50,21 @@ This project is developed by the XoCode team:
 - [Deepthi Rasad](https://www.linkedin.com/in/deepthi-rasad-09a231202/)
 - [Supipi Meddegodage](https://www.linkedin.com/in/supipi-meddegodage-b02047270/)
 - [Sachini Nethmini](https://www.linkedin.com/in/sachini-nethmini-diwyanjalee-71128128b/)
+
+## Frontend Repository
+
+The frontend code is housed in a separate repository. You can find it [here](https://github.com/XoCode-Software-development-team/Eventify-event_management_system-frontend).
+
+**Clone the Frontend Repository**:
+   ```bash
+   git clone https://github.com/XoCode-Software-development-team/Eventify-event_management_system-frontend
+  ```
+
+## Backend Repository
+
+The backend code is housed in a separate repository. You can find it [here](https://github.com/XoCode-Software-development-team/Eventify-event_management_system-backend).
+
+**Clone the Backend Repository**:
+   ```bash
+   git clone https://github.com/XoCode-Software-development-team/Eventify-event_management_system-backend
+```
