@@ -1,12 +1,52 @@
-## Hi there 👋
+# Eventify: Event Management System
 
-<!--
+**Eventify** is a comprehensive Event Management System designed to streamline event planning and coordination between clients and vendors. Our platform enhances collaboration, optimizes workflows, and provides real-time communication capabilities for successful event execution.
 
-**Here are some ideas to get you started:**
+## Technologies Used
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Frontend**: Angular for a dynamic user interface.
+- **Backend**: ASP.NET Core with SignalR for real-time functionalities.
+- **Database**: MySQL Server for robust data management and Firebase for file uploads.
+
+## Key Features
+
+- **Event Creation & Management**: 
+  - Create, update, and manage events easily.
+  - Maintain an interactive event calendar.
+
+- **Vendor Interaction**:
+  - Follow vendors for updates on services and resources.
+  - Chat with vendors via WhatsApp for instant communication.
+  - View top-rated vendors along with client feedback.
+
+- **Service and Resource Management**:
+  - Compare different services and resources effectively.
+  - Filter and sort services and resources based on various criteria (e.g., price, rating, category).
+  - Access location views using Google Maps for venues and resources.
+
+- **User Experience Enhancements**:
+  - Provide feedback options for clients to rate vendors.
+  - Implement a search feature to find vendors by district easily.
+  - User profile management.
+
+- **Real-Time Notifications**:
+  - Enable real-time notifications for all event-related updates.
+
+- **Vendor Operations**:
+  - Update services and resources.
+  - Accept or reject service requests for events by users.
+
+- **Admin Operations**:
+  - Suspend services as needed.
+  - View all services and resources.
+  - Admin dashboard for oversight and management.
+
+ ## Collaborators
+
+This project is developed by the XoCode team:
+
+- [Pramudi Srimali](https://www.linkedin.com/in/pramudi-srimali-35639a28b/) - Project Lead
+- [Manoj Thilakarathna](https://www.linkedin.com/in/manojtharindu11/)
+- [Deepthi Rasad](https://www.linkedin.com/in/deepthi-rasad-09a231202/)
+- [Supipi Meddegodage](https://www.linkedin.com/in/supipi-meddegodage-b02047270/)
+- [Sachini Nethmini](https://www.linkedin.com/in/sachini-nethmini-diwyanjalee-71128128b/)
