@@ -47,10 +47,9 @@ This project is developed by the XoCode team:
 
 - [Pramudi Srimali](https://www.linkedin.com/in/pramudi-srimali-35639a28b/) - Project Lead
 - [Manoj Thilakarathna](https://www.linkedin.com/in/manojtharindu11/)
-- [Deepthi Rasad](https://www.linkedin.com/in/deepthi-rasad-09a231202/)
+- [Deepthi Rasad](https://www.linkedin.com/in/deepthi-dharmarathna-4a000726a/)
 - [Supipi Meddegodage](https://www.linkedin.com/in/supipi-meddegodage-b02047270/)
 - [Sachini Nethmini](https://www.linkedin.com/in/sachini-nethmini-diwyanjalee-71128128b/)
-
 ## Frontend Repository
 
 The frontend code is housed in a separate repository. You can find it [here](https://github.com/XoCode-Software-development-team/Eventify-event_management_system-frontend).
