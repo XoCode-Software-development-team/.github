@@ -68,5 +68,10 @@ The backend code is housed in a separate repository. You can find it [here](http
    git clone https://github.com/XoCode-Software-development-team/Eventify-event_management_system-backend
 ```
 
+## Acknowledgments
+
+Special thanks to all the contributors and mentors who supported this project!
+
 ![XOCODE logo](https://github.com/user-attachments/assets/ad42e85f-8b34-490d-acf0-b50bec63d9af)
+
 
