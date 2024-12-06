@@ -10,33 +10,33 @@
 
 ## Key Features
 
-- **Event Creation & Management**: 
+#### **Event Creation & Management**: 
   - Create, update, and manage events easily.
   - Maintain an interactive event calendar.
 
-- **Vendor Interaction**:
+#### **Vendor Interaction**:
   - Follow vendors for updates on services and resources.
   - Chat with vendors via WhatsApp for instant communication.
   - View top-rated vendors along with client feedback.
 
-- **Service and Resource Management**:
+#### **Service and Resource Management**:
   - Compare different services and resources effectively.
   - Filter and sort services and resources based on various criteria (e.g., price, rating, category).
   - Access location views using Google Maps for venues and resources.
 
-- **User Experience Enhancements**:
+#### **User Experience Enhancements**:
   - Provide feedback options for clients to rate vendors.
   - Implement a search feature to find vendors by district easily.
   - User profile management.
 
-- **Real-Time Notifications**:
+#### **Real-Time Notifications**:
   - Enable real-time notifications for all event-related updates.
 
-- **Vendor Operations**:
+#### **Vendor Operations**:
   - Update services and resources.
   - Accept or reject service requests for events by users.
 
-- **Admin Operations**:
+#### **Admin Operations**:
   - Suspend services as needed.
   - View all services and resources.
   - Admin dashboard for oversight and management.
